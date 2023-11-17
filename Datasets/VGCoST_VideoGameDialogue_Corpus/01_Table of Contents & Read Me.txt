@@ -1,0 +1,47 @@
+Thanks for using the Video Game Corpus of Speech and Text! The corpus is absolutely free to use for anybody.
+All text files should be compatible with any corpus analysis tool you wish to use. If any problems occur, feel free to send an email to the address below. 
+Do so as well if you want to include your game into the corpus, or if you have any suggestions or enquiries.
+The corpus was compiled by me, Pascal Wagner, as well as extracted from the games manually by me if not otherwise stated in the files.
+Lines preceded with a @ sign in the files are additional information or notes not occuring in the game text; you should find it easy to exclude them from your research.
+
+LEGAL INFORMATION:
+All text belongs to the game it is from and is owned by the respective developer, publisher or artist. 
+I do not claim ownership of them, I merely compiled this collection as a free and open object for research. 
+It is protected as a database under German law §4 UrhG and free to use for research and schooling purposes under §§60a-h UrG. 
+Where German law does not apply, the database is distributed under CC BY-NC-ND 4.0. DO NOT distribute altered versions of the corpus. You are not allowed to use the corpus or any of its contents commercially in any way.  
+
+CONTACT:
+Pascal Wagner
+Email: pascal@indieflock.net
+Website: www.languageatplay.de
+Twitter: @indieflock / @LanguageAtPlay
+
+------------------------------
+
+Alphabetical Table of Contents
+
+ENGLISH TEXT FILES
+Colonization, Sid Meier's
+Dragon Warrior
+Eastshade
+Gods Will Be Watching
+Harry Potter 2
+Luther: The Journey
+Momodora: Revery under the Moonlight
+Portal
+Portal 2
+
+GERMAN TEXT FILES/DEUTSCHE TEXTDOKUMENTE
+Eastshade
+Luther: Die Reise
+Gods Will Be Watching
+Harry Potter 2
+
+FRENCH TEXT FILES
+Eastshade
+
+RUSSIAN TEXT FILES
+Eastshade
+
+CHINESE TEXT FILES
+Eastshade
