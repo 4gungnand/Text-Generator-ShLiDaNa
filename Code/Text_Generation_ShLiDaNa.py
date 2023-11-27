@@ -79,7 +79,7 @@ tf.compat.v1.disable_eager_execution()
 model = create_model(total_words, max_sequence_len)
 
 # Train the model
-model.fit(features, labels, epochs=50, verbose=1)
+model.fit(features, labels, epochs=50, verbose=0)
 
 # Save the model
 model.save('model.h5')
