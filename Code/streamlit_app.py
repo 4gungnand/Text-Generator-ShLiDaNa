@@ -1,3 +1,4 @@
+from imp import load_module
 import numpy as np
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
@@ -6,7 +7,7 @@ import pickle as pkl
 
 def text_generator(input_text, next_words=20):
     # Load the model
-    model = load_model('model.h5')
+    model = load_module('model.h5')
 
     # Take user input
     seed_text = input("Enter your seed text:\n")

@@ -10,7 +10,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.layers import Embedding, LSTM, Dense, Bidirectional
 
 # Define path for file with datasets
-dataset = '..\Datasets\VGCoST_VideoGameDialogue_Corpus\ENG\Portal_merged.txt'
+dataset = 'Datasets\VGCoST_VideoGameDialogue_Corpus\ENG\Portal_merged.txt'
 
 # Read the data
 with open(dataset, encoding='ISO-8859-1') as f:
