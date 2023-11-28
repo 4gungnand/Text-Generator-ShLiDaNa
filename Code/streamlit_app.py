@@ -10,7 +10,6 @@ def text_generator(input_text, next_words=20):
 
     # Take user input
     seed_text = input("Enter your seed text:\n")
-    max_sequence_len = 21 # Based on training data (refer to ipynb file)
 
     for _ in range(next_words):
         # load the tokenizer from .pkl file
@@ -34,6 +33,7 @@ def __main__():
     st.title("Text Generation")
     st.write("This app generates text based on the input text.")
     input_text = st.text_input("Enter your seed text:")
+    next_words = st.slider("How many words do you want to generate?", 1, 100)
     if st.button("Generate"):
-        output_text = text_generator(input_text)
+        output_text = text_generator(input_text, next_words)
         st.write(output_text)
