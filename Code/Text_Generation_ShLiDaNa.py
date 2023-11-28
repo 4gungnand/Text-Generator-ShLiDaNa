@@ -2,6 +2,7 @@ import tensorflow as tf
 import numpy as np
 import re
 import matplotlib.pyplot as plt
+import pickle as pkl
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.preprocessing.text import Tokenizer
@@ -83,3 +84,6 @@ model.fit(features, labels, epochs=50, verbose=0)
 
 # Save the model
 model.save('model.h5')
+with open('tokenizer.pickle', 'wb') as handle:
+    pkl.dump(tokenizer, handle)
+

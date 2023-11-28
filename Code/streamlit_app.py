@@ -2,19 +2,19 @@ import numpy as np
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import streamlit as st
+import pickle as pkl
 
-def text_generator(input_text):
+def text_generator(input_text, next_words=20):
     # Load the model
     model = load_model('model.h5')
 
     # Take user input
     seed_text = input("Enter your seed text:\n")
-    next_words = 20
     max_sequence_len = 21 # Based on training data (refer to ipynb file)
 
     for _ in range(next_words):
-        # Initialize tokenizer
-        tokenizer = Tokenizer()
+        # load the tokenizer from .pkl file
+        tokenizer = pkl.load(open('tokenizer.pkl', 'rb'))
         # Convert the text into sequences
         token_list = tokenizer.texts_to_sequences([seed_text])[0]
         # Pad the sequences
