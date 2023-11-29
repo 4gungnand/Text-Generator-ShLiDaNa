@@ -33,9 +33,7 @@ def text_generator(input_text, next_words=20, model=model, tokenizer=tokenizer):
     return seed_text
 
 
-st.text("Halo dek")
-    
-st.title("Text Generation")
+st.title("Text Generation App")
 
 st.write("This app generates text based on the input text.")
 
