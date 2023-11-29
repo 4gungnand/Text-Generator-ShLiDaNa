@@ -84,6 +84,6 @@ model.fit(features, labels, epochs=50, verbose=0)
 
 # Save the model
 model.save('model.h5')
-with open('tokenizer.pickle', 'wb') as handle:
+with open('tokenizer.pkl', 'wb') as handle:
     pkl.dump(tokenizer, handle)
 
