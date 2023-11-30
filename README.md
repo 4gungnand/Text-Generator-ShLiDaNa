@@ -1,5 +1,8 @@
-# Text-Generator-ShLiDaNa
+# Game-Dialogue-Generator
+A Deep Learning Project where we utilize Natural Language Processing and train Models
+to generate texts. The model has a Bi-Directional LSTM architecture. 
 
+# Team Members
 | Name | NIM |
 |---|---|
 |Shahran Kurnia Ramadhan|21/476650/PA/20592|
@@ -7,9 +10,9 @@
 |Daniel Ardi Chandra|21/479046/PA/20780|
 |I Gusti Agung Premananda |21/473829/PA/20432|
 
-# TOPIK: Text and Paragraph Generation
+# Topic: Text and Paragraph Generation
 
-# IMPLEMENTASI: Dialogue Generation
+# Subtopic: Dialogue Generation
 
 # PAPER:
 - https://ieeexplore-ieee-org.ezproxy.ugm.ac.id/document/9941244 (Encoder Decoder ChatBot)
@@ -19,6 +22,7 @@
 
 # RESOURCES:
 - https://github.com/google-research/bert (BERT)
+- Deeplearning.Ai - Natural Language Processing Lab 
 
 # DATASET:
 - https://gist.github.com/efonte/ce0b3a8f2651d2263d7085b2121d9f6c#file-texts_extracted-txt (Disco Elysium Dialogue)
