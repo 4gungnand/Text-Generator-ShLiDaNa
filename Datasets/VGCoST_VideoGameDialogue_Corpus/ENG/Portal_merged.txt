@@ -1,6 +1,3 @@
-@Portal, Valve, PC, PS3, Xbox 360, 2007
-@text extracted by Ayelis, source: https://www.gamefaqs.com/pc/934386-portal/faqs/50477 (accessed 05/18/2017)
-
 @[Cameras]
 @[GLaDOS says this if you place a portal on the wall under a camera.]
 "To ensure the safe performance of all authorized activities, do not destroy 
