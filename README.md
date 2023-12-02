@@ -1,6 +1,6 @@
 # Game-Dialogue-Generator
 A Deep Learning Project where we utilize Natural Language Processing and train Models
-to generate texts. The model has a Bi-Directional LSTM architecture. 
+to generate texts.
 
 # Deployed with
 Streamlit: https://game-dialogue-generator.streamlit.app
