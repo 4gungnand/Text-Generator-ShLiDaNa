@@ -1,6 +1,3 @@
-@Portal 2, Valve, PC, PS3, Xbox 360, 2011
-@text extracted by oblivion from aoc, source: https://www.gamefaqs.com/pc/991073-portal-2/faqs/62236 (accessed 05/18/2017)
-
 Announcer: Explosion imminent. Evacuate the facility immediately.
 Announcer: Warning. Reactor core is at critical temperature.
 Announcer: Warning: Core overheating. Nuclear meltdown imminent.
@@ -887,7 +884,7 @@ GLaDOS: Orange is awarded five points!
 GLaDOS: Blue is awarded five points!
 GLaDOS: Again, those are science collaboration points, which you should not
 confuse with points from competitions such as Who-Gets-To-Live-At-The-End-An
--Who-Doesn’t. I mean basketball.
+-Who-Doesnï¿½t. I mean basketball.
 GLaDOS: Oh, I almost forgot, when you go outside the testing courses the only
 way I can retrieve you is to violently disassemble and then carefully
 reassemble you.
@@ -941,25 +938,25 @@ GLaDOS: This is Tic-Tac-Toe-Two.
 GLaDOS: As the name implies, there are only two minor differences: One, the
 board; two, the rules.
 GLaDOS: Blue, you go first.
-GLaDOS: Really? You’re just going to blatantly cheat?
-GLaDOS: All right. I’m bringing this farce to a close.
+GLaDOS: Really? Youï¿½re just going to blatantly cheat?
+GLaDOS: All right. Iï¿½m bringing this farce to a close.
 GLaDOS: Game over. Back to testing.
-GLaDOS: All right. I’m going to bring this farce to a close before someone
+GLaDOS: All right. Iï¿½m going to bring this farce to a close before someone
 sustains a serious Tic-Tac-Toe-Two-related injury.
-GLaDOS: I’ve been listening to Orange talk and I don’t know how you put up with
-it, I really don’t. You have the patience of a saint.
-GLaDOS: I can’t keep quiet about this. I think Orange is actively trying to
-sabotage your success. Let’s keep this between us.
+GLaDOS: Iï¿½ve been listening to Orange talk and I donï¿½t know how you put up with
+it, I really donï¿½t. You have the patience of a saint.
+GLaDOS: I canï¿½t keep quiet about this. I think Orange is actively trying to
+sabotage your success. Letï¿½s keep this between us.
 GLaDOS: These tests are potentially lethal when communication, teamwork and
 mutual respect are not employed at all times. Naturally this will pose an
-interesting challenge for one of you, given the other’s performance so far.
+interesting challenge for one of you, given the otherï¿½s performance so far.
 GLaDOS: It would compromise the test to divulge individual scores. However, I
 can tell you at least one of you is doing very, very well.
-GLaDOS: Excellent. You’re both doing very well.
-GLaDOS: Very good. You’ve really come together as a team. Thanks to the one of
+GLaDOS: Excellent. Youï¿½re both doing very well.
+GLaDOS: Very good. Youï¿½ve really come together as a team. Thanks to the one of
 you who appears to be doing all of the work.
 GLaDOS: As an impartial collaboration facilitator, it would be unfair of me to
-name my favorite member of your team. However, it’s perfectly fair to hint at
+name my favorite member of your team. However, itï¿½s perfectly fair to hint at
 it in a way that my least favorite member probably isn't smart enough to
 understand. Rhymeswithglue. Orange you are doing very well.
 GLaDOS: Your vitals remain well within testing norms, so there is no need to
@@ -975,17 +972,17 @@ GLaDOS: In just a moment, the word 'blah' will be repeated over and over again.
 If at some point you hear a number rather than the word 'blah', ignore it, it
 is not important.
 GLaDOS: Blah.
-GLaDOS: You have a gift for these tests. That’s not just flattery. You are
+GLaDOS: You have a gift for these tests. Thatï¿½s not just flattery. You are
 great at science.
-GLaDOS: It would be pointless for either of us to hurt Blue’s feelings. But
-it’s clear to everyone monitoring the test who’s carrying who here.
-GLaDOS: I’m shocked you’d say that, Blue. If you killed your partner the
-test—I’m sorry. Wrong feed. Carry on, Orange. Good work.
-GLaDOS: I’m sorry, Subject Orange.
-GLaDOS: I’m sorry, Subject Blue.
+GLaDOS: It would be pointless for either of us to hurt Blueï¿½s feelings. But
+itï¿½s clear to everyone monitoring the test whoï¿½s carrying who here.
+GLaDOS: Iï¿½m shocked youï¿½d say that, Blue. If you killed your partner the
+testï¿½Iï¿½m sorry. Wrong feed. Carry on, Orange. Good work.
+GLaDOS: Iï¿½m sorry, Subject Orange.
+GLaDOS: Iï¿½m sorry, Subject Blue.
 GLaDOS: Am I interrupting your important conversation?
-GLaDOS: I’ll just save the safety information about the dangerous experiment
-you’re about to do for AFTER the experiment.
+GLaDOS: Iï¿½ll just save the safety information about the dangerous experiment
+youï¿½re about to do for AFTER the experiment.
 GLaDOS: That will give you PLENTY of time to chat.
 GLaDOS: The portal will open and something will happen that Subject Orange is
 too smart to need any instructions about in three. Two. One.
@@ -1012,17 +1009,17 @@ GLaDOS: Just go.
 GLaDOS: It's been fun. Don't come back.
 GLaDOS: [gentle laughter] It's been fun. Don't come back.
 GLaDOS: Killing you? Is hard.
-GLaDOS: Did you ever stop to think that eventually there’s a point where your
-name gets mentioned for the very last time. Well, here it is: I’m going to kill
+GLaDOS: Did you ever stop to think that eventually thereï¿½s a point where your
+name gets mentioned for the very last time. Well, here it is: Iï¿½m going to kill
 you, Chell.
-GLaDOS: Why do I hate you so much? You ever wonder that? I'm brilliant. I’m not
+GLaDOS: Why do I hate you so much? You ever wonder that? I'm brilliant. Iï¿½m not
 bragging. It's an objective fact. I'm the most massive collection of wisdom and
-raw computational power that’s ever existed. And I hate you. It can't be for no
+raw computational power thatï¿½s ever existed. And I hate you. It can't be for no
 reason. You must deserve it.
-GLaDOS: You're angry. I know it. 'She tested me too hard. She’s unfair.
+GLaDOS: You're angry. I know it. 'She tested me too hard. Sheï¿½s unfair.
 GLaDOS: You never considered that maybe I tested you to give the endless hours
 of your pointless existence some structure and meaning. Maybe to help you
-concentrate, so just maybe you’d think of something more worthwhile to do with
+concentrate, so just maybe youï¿½d think of something more worthwhile to do with
 your sorry life.
 GLaDOS: This next test involves the Aperture Science Aerial Faith Plate. It was
 part of an initiative to investigate how well test subjects could solve
@@ -1186,7 +1183,7 @@ subjects fail and you didn't.  You must be very, very proud.  I'm building the
 world's smallest trophy for you.
 GLaDOS: You did an excellent job placing the edgeless safety cube in the
 receptacle, you should be very - oh wait.
-GLaDOS: That’s right. You're not humans.
+GLaDOS: Thatï¿½s right. You're not humans.
 GLaDOS: I can drop the fake praise.
 GLaDOS: You have no idea how tiring it is to praise someone for placing an
 edgeless safety cube into a receptacle designed to exactly fit an edgeless
@@ -2826,7 +2823,7 @@ Wheatley: See that?
 Wheatley: That is a potato battery. It's a toy for children. And now she lives
 in it.
 Wheatley: [laughs]
-Wheatley: Estás usando este software de traducción de forma incorrecta. Por
+Wheatley: Estï¿½s usando este software de traducciï¿½n de forma incorrecta. Por
 favor, consulta el manual.
 Wheatley: For god's sake, you're BOXES with LEGS! It is literally your only
 purpose! Walking onto buttons! How can you not do the one thing you were
@@ -3597,7 +3594,7 @@ the eggs! Livid!
 Wheatley: Ooh. It's dark down here isn't it?
 Wheatley: This is the turret manufacturing wing. Just past this is the
 neurotoxin production facility. We find a way to take them both offline, and
-she’ll be helpless. Which is ideal.
+sheï¿½ll be helpless. Which is ideal.
 Wheatley: I'm pretty sure we're going the right way. Pretty sure.
 Wheatley: The turret factory should be this way I think.
 Wheatley: Oh, careful now.
@@ -3630,19 +3627,19 @@ Wheatley: There's another wall over here!
 Wheatley: Here it is - the turret factory entrance! We made it.
 Wheatley: Be careful!
 Wheatley: Bring your daughter to work day. That did not end well.
-Wheatley: And... forty potato batteries. Embarrassing. I realize they’re
+Wheatley: And... forty potato batteries. Embarrassing. I realize theyï¿½re
 children. Still: low hanging fruit. Barely science, really.
 Wheatley: I'm pretty sure we're going the right way. Just to reassure you...
 Wheatley: Don't worry I'm absolutely guaranteeing you 100 percent that it's
 this way... Oh it's not this way.
 Wheatley: Okay, let's try this way.
-Wheatley: Right. Well, I’m going to take this rail down the back way.
+Wheatley: Right. Well, Iï¿½m going to take this rail down the back way.
 Wheatley: See you at the bottom. Good luck!
 Wheatley: They say the old caretaker of this place went absolutely crazy.
 Chopped up his entire staff. Of robots. All of them robots. They say at night
 you can still hear the screams. Of their replicas. All of them functionally
 indistinguishable from the originals. No memory of the incident. Nobody knows
-what they’re screaming about. Absolutely terrifying. Though obviously not
+what theyï¿½re screaming about. Absolutely terrifying. Though obviously not
 paranormal in any meaningful way.
 Wheatley: Here's an interesting story. I almost got a job down here in
 Manufacturing. Guess who the foreman went with? Only an exact duplicate of
@@ -3894,33 +3891,33 @@ Turret: Hello?
 Turret: But I need to protect the humans!
 Turret: Whee!
 Turret: Wheeeeeeee!
-Turret: I’m afraid of heights!
+Turret: Iï¿½m afraid of heights!
 Turret: Noooooo!
 Turret: See you soon!
-Turret: I’m scared!
-Turret: I’m scared!
+Turret: Iï¿½m scared!
+Turret: Iï¿½m scared!
 Turret: Hooray!
 Turret: Glorious freedom!
-Turret: I’m flyinnnng!
+Turret: Iï¿½m flyinnnng!
 Turret: Goodbye!
 Turret: Come closer.
-Turret: Something’s wrong...
+Turret: Somethingï¿½s wrong...
 Turret: What are you doing?
 Turret: Failure...
 Turret: Ow!
 Turret: Owww!
 Turret: Owwwww!
 Turret: It burns.
-Turret: I’m on fire.
-Turret: I’m on fire ow.
+Turret: Iï¿½m on fire.
+Turret: Iï¿½m on fire ow.
 Turret: Please stop.
-Turret: You’ve made your point.
+Turret: Youï¿½ve made your point.
 Turret: Okay, you win.
 Turret: This is not good.
 Turret: Arrrrgh!
 Turret: Owwww!
 Turret: Can't breathe...
-Turret: Excuse me, you’re squishing me.
+Turret: Excuse me, youï¿½re squishing me.
 Turret: Um, hello?
 Turret: Help! Being squished!
 Turret: Hello?
@@ -3941,14 +3938,14 @@ Turret: I need backup!
 Turret: You have excellent aim!
 Turret: I never liked her.
 Turret: These things happen.
-Turret: That was nobody’s fault.
+Turret: That was nobodyï¿½s fault.
 Turret: She was provoking you.
 Turret: Oh dear.
 Turret: Oh my.
 Turret: I blame myself.
 Turret: She probably deserved it.
 Turret: I saw it. It was an accident.
-Turret: She’s probably okay.
+Turret: Sheï¿½s probably okay.
 Turret: Noted.
 Turret: Activated!
 Turret: Coming through!
@@ -4117,7 +4114,7 @@ between the debris and the environment. Post simulation, the root transform
 position and inertia were reapplied to the details. We solved the problem of
 trying to compute the player within this highly dynamic environment by putting
 them in a virtual room that has all the base shapes of the rendered container,
-but is simply used to compute player navigation. (It’s hidden somewhere else in
+but is simply used to compute player navigation. (Itï¿½s hidden somewhere else in
 the map.) The viewpoint of the player is then parented to coarse simulation
 transform, resulting in the final rendered frame. At the end of the ride the
 player is teleported into the actual game space. The simulations were
@@ -4127,8 +4124,8 @@ and 1000 joints. With all the iterations combined, the actual run time spent
 computing the simulation was 92.4875 days."
 "REFERENCE MATERIALS"
 "[Adam Foster] While making Portal 2, we explored our way through vast
-quantities of reference material. Inspirations included photos of NASA’s Apollo
-and Shuttle programs, CERN’s particle accelerators both modern and obsolete,
+quantities of reference material. Inspirations included photos of NASAï¿½s Apollo
+and Shuttle programs, CERNï¿½s particle accelerators both modern and obsolete,
 industrial robots, derelict Soviet space shuttles, overgrown temples, Brussels
 metro stations, seedy American motels, junkyards filled with rocketry
 equipment, Chinese apartment blocks under construction, Polish shipyards,
@@ -4145,7 +4142,7 @@ the gag worked well and decided to make every monitor breakable."
 "NONLINEAR PROGRESSION"
 "[Greg Cherlin] The original layout of this chamber started out much more
 linear; essentially a sequence of rooms that the player had to progress through
-somewhat blindly – not knowing what the next goal might be until they got
+somewhat blindly ï¿½ not knowing what the next goal might be until they got
 there.  Early versions contained an extra puzzle beyond the reflector cube, but
 due to the linear path, it took players so long to get to it, that they were
 confused about which elements were still relevant. This drove us to make the
@@ -4224,12 +4221,12 @@ The visualization tools helped us debug these types of problems"
 "[Randy Lundeen] The idea of being stuck forever in a state of stasis that
 looked like a crappy old motel room had been in our minds for a long time, but
 we weren't sure exactly how we wanted to rip you out of it. There was some
-debate over whether the opening sequence happened inside the player’s head or
+debate over whether the opening sequence happened inside the playerï¿½s head or
 not. There was an alternate opening where Aperture had hooked-up all of its
 cryo-stored test subjects to an incredibly boring hotel room simulator, which
 Wheatley would then wake the player from. Eventually this was discarded as too
 difficult to explain in the short time allotted, and we opted to change the
-hotel room to a “container ride on a rail”. This allowed us to show the player,
+hotel room to a ï¿½container ride on a railï¿½. This allowed us to show the player,
 rather than tell them, about how they and other test subjects have been stored,
 show some of the scale of the facility and even hint at how much time has
 passed. We also get to gradually reveal all of this through the destruction of
@@ -4240,23 +4237,23 @@ player a much more dynamic and visceral introduction to Portal 2."
 tried escaping with other test subjects before waking the player up. It was an
 interesting idea, and you can still hear remnants of this story arc in some of
 the dialogue. But at the end of the day, it was just too expansive a concept to
-sell. So it’s hinted at, but not overtly mentioned until the end."
+sell. So itï¿½s hinted at, but not overtly mentioned until the end."
 "SLOW BURN"
 "[Elan Ruskin] GLaDOS originally was a lot more cutting in these opening rooms,
-given that she’s talking to someone she perceives as her murderer. Playtests
+given that sheï¿½s talking to someone she perceives as her murderer. Playtests
 revealed, though, that it was a bit grueling getting brow-beaten by GLaDOS this
 early in the game, so her arc was rewritten to give her more of a slow burn
 towards the player."
 "MANY TO ONE"
 "[Doug Wood] Wheatley was originally envisioned as a group of spheres that
-you’d discover as you explored the facility behind the scenes. We ditched this
-idea for two reasons. For one thing, ‘behind the scenes’ levels were required
+youï¿½d discover as you explored the facility behind the scenes. We ditched this
+idea for two reasons. For one thing, ï¿½behind the scenesï¿½ levels were required
 to highlight the introductions of each of these new spheres and these levels
 have their own unique logic.  The number of spheres we wanted would have made
 for far too many of these types of levels, resulting in a very un-Portal-like
 game. Also, we were spending so much time introducing these new characters that
 we had no time to get to know any of them before they were swept offstage for
-the next one. Eventually we realized it’d be a lot more satisfying to really
+the next one. Eventually we realized itï¿½d be a lot more satisfying to really
 get to know one sphere instead of briefly meeting six.  Some of these
 characters were eventually recycled as corrupt cores for the finale."
 "HORRIBLE ACCENTS"
@@ -4277,20 +4274,20 @@ by using GLaDOS-actor Ellen McLain.  Out of nowhere, we suddenly had an
 opportunity for a GLaDOS origin story."
 "POTATOS"
 "[Jay Pinkerton] The character of PotatOS was actually the hardest one to crack
-for us, and was the last character to get recorded. We’d always wanted to
+for us, and was the last character to get recorded. Weï¿½d always wanted to
 switch things up for the sequel, so that GLaDOS would become your unwilling
 buddy cop partner against a new threat, but this ended up being far more
-entertaining as a concept than in execution. It’s one thing to have an
-omnipotent villain chastising you while you’re testing. It’s quite another to
+entertaining as a concept than in execution. Itï¿½s one thing to have an
+omnipotent villain chastising you while youï¿½re testing. Itï¿½s quite another to
 have a little potato on your gun doing the same. Playtesters wanted to tear her
-off the gun, and we didn’t blame them. So we were faced with the unsettling
+off the gun, and we didnï¿½t blame them. So we were faced with the unsettling
 prospect of making dry, robotic supervillain GLaDOS more human and relatable.
 This ended up being one of the hardest writing jobs in the game."
 "BIRDBRAIN"
-"[Erik Wolpaw] One of the larger plot holes that PotatOS introduced was: She’s
-your buddy now. She’s got the same goals as you. So why isn’t she helping you
+"[Erik Wolpaw] One of the larger plot holes that PotatOS introduced was: Sheï¿½s
+your buddy now. Sheï¿½s got the same goals as you. So why isnï¿½t she helping you
 solve the tests? The real answer is, obviously, that if she did help you solve
-the tests there’d be no game. One solution we we came up with was for the bird
+the tests thereï¿½d be no game. One solution we we came up with was for the bird
 from Act 3 to keep swooping in and pecking bits of her off your gun. As the
 bird kept eating the part of her that knew how to solve the tests, PotatOS
 would actually get dumber over time. For technical reasons, this ended up being
@@ -4305,7 +4302,7 @@ Stephen Merchant did a great job of intercutting funny bumbling Wheatley with
 occasional outbursts of power-mad, villainous Wheatley."
 "PUNISHER"
 "[Joel Shoop] There was a lot of debate over how to properly punish Wheatley at
-the end of the game. Killing him seemed too severe, given how much we’d grown
+the end of the game. Killing him seemed too severe, given how much weï¿½d grown
 to love the character. On the other hand, simply letting him out of the GLaDOS
 body with a slap on the wrist seemed unacceptably anticlimactic. Having him
 sucked out into space with the Space Sphere seemed like a happy middle ground
@@ -4328,7 +4325,7 @@ was kind of a perpetual motion needed to maintain his balance."
 "BLUE BOT"
 "[Christen Coomer] If the Orange bot is the Odd Couple's Felix, then Blue is
 Oscar. Blue was meant to be an early and rather rough prototype robot--
-representing GLaDOS’s first attempt at making a bipedal testing bot. Compared
+representing GLaDOSï¿½s first attempt at making a bipedal testing bot. Compared
 to the sleek lines of Orange, he is much less elegant. For motion inspiration,
 we looked to some of our favorite real life robots, such as the Big Dog robot
 from MIT and the towel-folding robot from Hitachi."
@@ -4348,14 +4345,14 @@ offices for its workers."
 "NEW SOUNDS AND OLD"
 "[Tim Larkin] The newer and older versions of Aperture show their distinct
 personalities in sound as well as visuals. The doors, floors and buttons, as
-well as soundscapes, reflect the aging, outdated 70’s feel. The sounds contain
+well as soundscapes, reflect the aging, outdated 70ï¿½s feel. The sounds contain
 hints of the decaying metal and wood. The newer but unstable Wheatley chamber
 soundscapes become more foreboding and perilous the further you venture into
 them. The atmosphere of uncontrolled destruction continues to intensify till
 the end."
 "PREDICTING WITH PORTALS"
 "[Dave Kircher] The levels in Portal 2 are much more complex than in the first
-game, and as a result we’ve had to beef up the player movement algorithms. The
+game, and as a result weï¿½ve had to beef up the player movement algorithms. The
 player is represented as an axis-aligned box in the world, which creates a
 problem for portal teleportation because portal teleportation is almost never
 axis-aligned. To improve how we handle this, we trace the player as the axis-
@@ -4363,7 +4360,7 @@ aligned bounding box they would use on each side of a portal simultaneously and
 merge the results into something usable. We have to predict quite a bit more
 than previous Source Engine games because portals and projected entities change
 the way the player moves through the world. Prediction itself is a mind bending
-headache when dealing with portals. We’re already dealing with a non-linear
+headache when dealing with portals. Weï¿½re already dealing with a non-linear
 space. Now we also have to deal with non-linear time in a non-linear space."
 "HUB DESIGN"
 "[Matt T. Wood] In laying out the structure of our Hub, we had a number of
@@ -4484,14 +4481,14 @@ us some performance overhead, since the co-op mode has more portal views to
 render than single-player mode."
 "GEL SOUNDS"
 "[David Feise] With the gel sounds for Portal 2 we wanted to create something
-whimsical that would add to the player’s enjoyment of the mechanics, without
+whimsical that would add to the playerï¿½s enjoyment of the mechanics, without
 crossing over the line into ludicrousness.  For example, our initial pass at
 the blue gel 'bounce' sound included a rubber playground ball, a pitch-bent
 harp string and a processed mouth harp.  The resulting sound captured the idea
 of fun, but was off the charts on the goofy scale.  After several iterations we
 settled on the current, less over-the-top sound which features a piece of metal
-bar bouncing like a diving board and a heavy dose of synthesis.  It’s not as
-wacky, but hopefully it’s still fun."
+bar bouncing like a diving board and a heavy dose of synthesis.  Itï¿½s not as
+wacky, but hopefully itï¿½s still fun."
 "GESTURE WHEEL"
 "[Andrew Burke] In our first implementation, gestures were automatically
 selected based on the player's context.  For example, Blue might do a special
@@ -4526,7 +4523,7 @@ when the mood strikes either player, the game always ensures a successful
 celebration."
 "HUGS"
 "[Keith Lango] For a while, we were on the fence about whether to keep the team
-taunt 'hug' in the game.  Some felt it wasn’t suitably robotic,  while others
+taunt 'hug' in the game.  Some felt it wasnï¿½t suitably robotic,  while others
 had a concern that it perhaps showed too much emotion for these characters.
 But once it was animated for a trade show trailer, many of our concerns were
 washed away by the positive reaction of the fans.  It was a huge success."
@@ -4733,7 +4730,7 @@ almost none of our playtesters could solve the puzzle. We removed the second
 fizzler and simplified the layout of the room quite a bit but most of our
 playtesters were still getting stuck on it. We identified the problem to be the
 space above the fizzler. Originally this space was completely open, but that
-didn’t effectively convey to the players that they needed to shoot a portal
+didnï¿½t effectively convey to the players that they needed to shoot a portal
 above the fizzler. We then tried putting glass with several holes in it above
 the fizzler. This was slightly more effective as players would know that the
 holes are there for a purpose and would try to solve the puzzle by shooting
@@ -4781,16 +4778,16 @@ this mechanic extended our toolbox to include objects whose basic properties of
 movement could be changed by the player."
 "PORTAL PAINT"
 "[Vitaliy Genkin] Portal paint was the last paint we added to the game, and for
-a long time we weren’t sure of the best way to use it. We experimented with the
+a long time we werenï¿½t sure of the best way to use it. We experimented with the
 delivery method and found that it was most effective when it was deployed in
 large quantities.  Another important factor was the angle of application.
 Dropping the paint at an angle allowed the player to play more freely with the
 paint, which gave them the liberating feeling of breaking the rules by being
-able to place portals where they couldn’t before."
+able to place portals where they couldnï¿½t before."
 "ARG"
 "[Adam Foster] While making Portal 2, we explored our way through vast
-quantities of reference material. Inspirations included photos of NASA’s Apollo
-and Shuttle programs, CERN’s particle accelerators both modern and obsolete,
+quantities of reference material. Inspirations included photos of NASAï¿½s Apollo
+and Shuttle programs, CERNï¿½s particle accelerators both modern and obsolete,
 industrial robots, derelict Soviet space shuttles, overgrown temples, Brussels
 metro stations, seedy American motels, junkyards filled with rocketry
 equipment, Chinese apartment blocks under construction, Polish shipyards,
@@ -4813,7 +4810,7 @@ from the intensive puzzle solving of the test chambers."
 In single player you can count on players paying attention and being caught up
 in important moments.  In co-op, you can count on the two players chatting
 about what they just did as GLaDOS delivers an important line.  To help with
-this issue, we broke up the story beats into smaller sections so players don’t
+this issue, we broke up the story beats into smaller sections so players donï¿½t
 become impatient. We also repeat the points multiple times to insure the
 message sinks in even if you missed it a few times.  Lastly, we also give
 players room to talk.  For example when you die, there is a two second beat for
@@ -4821,9 +4818,9 @@ you to laugh or yell before GLaDOS speaks.  It is important to give those
 places for players to speak because the best part about co-op is the shared
 experience."
 "BONK HEADS"
-"[Jeep Barnett] This puzzle requires one of Portal’s trickiest logical leaps.
+"[Jeep Barnett] This puzzle requires one of Portalï¿½s trickiest logical leaps.
 Early playtesters often took longer than their patience would allow, and were
-nearly ripping out their hair by the time they’d finally solved it. But almost
+nearly ripping out their hair by the time theyï¿½d finally solved it. But almost
 everyone insisted that the payoff was by far their favorite moment in all of
 co-op. We significantly reduced the average solution time by adding a puzzle
 just before this where two cubes repeatedly collide, but this almost completely
@@ -4833,7 +4830,7 @@ the final leap. First we added a puzzle four  chambers earlier, to teach
 players to fling by cutting their hard light bridge and falling into a surface
 directly below. We then subconsciously prime the thought of midair collision by
 having players repeatedly ricochet weighted spheres against a hard light
-bridge. Finally, we designed this room’s layout, lighting, and decals so that
+bridge. Finally, we designed this roomï¿½s layout, lighting, and decals so that
 players would see the entire space as a symmetrical whole and visualize the
 bots' fling path. By planting shards of the idea in their heads, we allow
 players to own that exciting dual collision epiphany while keeping their sanity
@@ -4887,14 +4884,14 @@ and processed them heavily with the resulting sounds being very robotic.
 However, as the animations being created for the bots were so broad and
 expressive, we soon realized we were going to need to try a different sonic
 approach.  After a few more in-house experiments, we brought in Dee Bradley
-Baker, who we had worked with to create the voices for some of Left 4 Dead’s
+Baker, who we had worked with to create the voices for some of Left 4 Deadï¿½s
 Special Infected. We worked with Dee to come up with two distinct vocal and
 character approaches for the bots and recorded a range of responses for each.
 Afterward, two of our sound designers each took on one of the voices and came
 up with a unique sound-processing approach to create a distinct sonic
-personality for each bot, that still allowed the energy and expression of Dee’s
+personality for each bot, that still allowed the energy and expression of Deeï¿½s
 performances to shine through. In the following samples you can hear what they
-sounded like in Dee’s original performance, and the result after the sound
+sounded like in Deeï¿½s original performance, and the result after the sound
 designers got through with them."
 "WHEATLEY ATTACKS"
 "[Kutta Srinivasan] Wheatley used to have different kinds of attacks, other

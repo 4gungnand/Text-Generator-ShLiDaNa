@@ -673,9 +673,6 @@ And when you're dead I will be still alive.
 STILL ALIVE!
 Still alive!"
 
-@Portal 2, Valve, PC, PS3, Xbox 360, 2011
-@text extracted by oblivion from aoc, source: https://www.gamefaqs.com/pc/991073-portal-2/faqs/62236 (accessed 05/18/2017)
-
 Announcer: Explosion imminent. Evacuate the facility immediately.
 Announcer: Warning. Reactor core is at critical temperature.
 Announcer: Warning: Core overheating. Nuclear meltdown imminent.
